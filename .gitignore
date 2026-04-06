@@ -1,2 +1,5 @@
 .venv/
 .DS_Store
+sft_results/
+sft_model_saved/
+ppo_model_saved/
